@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev":"vite"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "tailwindcss": "^4.1.10",
+    "vite": "^6.3.5"
+  }
+}
